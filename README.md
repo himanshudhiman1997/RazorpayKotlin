@@ -4,7 +4,7 @@ Razorpay payment gateway implementation in Android(Kotlin).
 
 #### Output
 
-![Output](https://github.com/himanshudhiman1997/RazorpayKotlin/output/razorpaykotlinoutput.gif)
+![Output](https://github.com/himanshudhiman1997/RazorpayKotlin/raw/master/output/razorpaykotlinoutput.gif)
 
 #### Prerequisite
 
