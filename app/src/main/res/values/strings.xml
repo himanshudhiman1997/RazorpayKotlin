@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">RazorpayKotlin</string>
+
+    <string name="key_id">enter_your_razorpay_key_id</string>
+    <string name="key_secret">enter_your_razorpay_key_secret</string>
+
+    <string name="product_name_xyz">Product name: XYZ</string>
+    <string name="amount">Amount: 500 Rs</string>
+    <string name="pay">Pay</string>
 </resources>
